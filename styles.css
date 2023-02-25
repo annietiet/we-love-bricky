@@ -1,0 +1,12 @@
+body {
+    margin-top: 100px;
+    background-color: #f6f8fa;
+    font-family: cursive;
+    text-align: center;
+  }
+  h1 {
+    color: #193787;
+  }
+  p {
+    color: red;
+  }
