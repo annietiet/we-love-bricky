@@ -1,1 +1,2 @@
-# we-love-bricky
+# we-love-ricky
+ricky the brick
